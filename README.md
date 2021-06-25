@@ -12,7 +12,12 @@ https://edy.rakuten.co.jp/howto/android/nfc/support/
 
 - Google Daydream
 ```
-With Magisk Pix3lify module, we can get Daydream VR support on unsupported device.
+(Ver 1.3) A new approach to enable Daydream using Xposed Framework.
+Yep, there is no need to install another Magisk module! It works!
+```
+![](https://github.com/jeffshee/nekumori-mod/blob/master/images/daydream_vr.jpg)
+```
+(Ver 1.2) With Magisk Pix3lify module, we can get Daydream VR support on unsupported device.
 Almost everything work, however, the main scene of Daydream app is visually distorted for unknown reason.
 Issue on Pix3lify:
 https://github.com/Magisk-Modules-Repo/Pix3lify/issues/104
@@ -20,9 +25,9 @@ And if we spoof Pixel device here, the distortion bug disappear, very weird inde
 (Tested on OnePlus7, not sure if this can solve the same bug on different device)
 ```
 _Before_
-![](images/daydream.jpg)
+![](https://github.com/jeffshee/nekumori-mod/blob/master/images/daydream.jpg)
 _After_
-![](images/daydream_fixed.jpg)
+![](https://github.com/jeffshee/nekumori-mod/blob/master/images/daydream_fixed.jpg)
 
 - Japan Post Bank
 ```
@@ -31,10 +36,10 @@ USB debug mode bypass for Japan Post Bank app.
 
 - Remove Lock Screen Album Art (OxygenOS 10)
 
-![](images/album_art_removed_a10.jpg)
+![](https://github.com/jeffshee/nekumori-mod/blob/master/images/album_art_removed_a10.jpg)
 - Remove Lock Screen Album Art (OxygenOS 11)
 ```
-OnePlus added the shyt functionality back to the OxygenOS 11?
+OnePlus added the sh*t functionality back to the OxygenOS 11?
 Don't worry, I got your back!
 ```
-![](images/album_art_removed_a11.jpg)
+![](https://github.com/jeffshee/nekumori-mod/blob/master/images/album_art_removed_a11.jpg)

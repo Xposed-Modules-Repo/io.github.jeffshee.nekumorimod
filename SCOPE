@@ -1,1 +1,1 @@
-["android", "jp.edy.edyapp", "com.google.android.vr.home", "jp.japanpost.jp_bank.bankbookapp", "com.android.systemui"]
+["jp.edy.edyapp", "jp.japanpost.jp_bank.bankbookapp", "com.android.systemui", "com.google.android.vr.home", "com.google.vr.vrcore", "com.google.android.vr.inputmethod", "com.android.location.fused", "android", "com.android.providers.settings", "com.android.server.telecom", "com.dsi.ant.server"]
