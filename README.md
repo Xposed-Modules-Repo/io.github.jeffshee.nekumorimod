@@ -46,4 +46,5 @@ Don't worry, I got your back!
 ![](https://github.com/jeffshee/nekumori-mod/blob/master/images/album_art_removed_a11.jpg)
 
 - Disable the stupid "Device supports Qualcomm® aptX™" notification
+
 ![](https://github.com/jeffshee/nekumori-mod/blob/master/images/aptx_notification.jpg)
