@@ -48,3 +48,13 @@ Don't worry, I got your back!
 - Disable the stupid "Device supports Qualcomm® aptX™" notification
 
 ![](https://github.com/jeffshee/nekumori-mod/blob/master/images/aptx_notification.jpg)
+
+- Hide "Clear All" button in Overview (Recent Screen)
+```
+NOTE: This mod is NOT enabled by default.
+User who need this feature should opt-in by adding "OnePlus Launcher" to the LSPosed's scope.
+```
+![](https://github.com/jeffshee/nekumori-mod/blob/master/images/disable_overview_clear_all.jpg)
+
+This mod aims to eliminate the bad habit of users who frequently press on the Clear All button for no reason.  
+[Why it is a bad habit?](https://www.reddit.com/r/Android/comments/2gif4g/greenify_developer_says_constantly_swiping_away/) 
